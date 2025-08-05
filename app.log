@@ -1,0 +1,387 @@
+2025-08-04 01:37:26,464 - data_fetching - WARNING - spaCy model not found. Install with: python -m spacy download en_core_web_sm
+2025-08-04 13:59:46,402 - training - INFO - 🤖 ModelTrainer initialized with models: ['distilgpt2', 'gpt2', 'microsoft/DialoGPT-small']
+2025-08-04 13:59:46,521 - database - INFO - 🗄️ Database initialized successfully
+2025-08-04 13:59:46,521 - main - INFO - 🚀 AI Training Platform API started successfully
+2025-08-04 14:00:11,807 - main - INFO - 👋 Application shutdown
+2025-08-04 14:01:04,721 - training - INFO - 🤖 ModelTrainer initialized with models: ['distilgpt2', 'gpt2', 'microsoft/DialoGPT-small']
+2025-08-04 14:01:04,753 - database - INFO - 🗄️ Database initialized successfully
+2025-08-04 14:01:04,756 - main - INFO - 🚀 AI Training Platform API started successfully
+2025-08-04 14:02:11,325 - main - INFO - 👋 Application shutdown
+2025-08-05 01:26:33,593 - training - INFO - 🤖 ModelTrainer initialized with models: ['distilgpt2', 'gpt2', 'microsoft/DialoGPT-small']
+2025-08-05 01:26:33,594 - api_integrations - INFO - ✅ OpenAI client initialized
+2025-08-05 02:13:08,329 - main - ERROR - ❌ Error initializing OpenAI client: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 02:13:08,369 - main - ERROR - ❌ Error initializing Groq client: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 02:13:08,395 - main - INFO - Database initialized.
+2025-08-05 02:13:08,397 - main - INFO - ✅ OpenAI API key loaded
+2025-08-05 02:13:08,398 - main - INFO - ✅ Groq API key loaded
+2025-08-05 02:13:08,398 - main - INFO - 🚀 AI Training Platform API started successfully
+2025-08-05 02:13:12,826 - main - INFO - Database closed.
+2025-08-05 02:13:12,826 - main - INFO - 👋 Application shutdown
+2025-08-05 02:13:20,700 - main - ERROR - ❌ Error initializing OpenAI client: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 02:13:20,700 - main - ERROR - ❌ Error initializing Groq client: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 02:13:20,733 - main - INFO - Database initialized.
+2025-08-05 02:13:20,734 - main - INFO - ✅ OpenAI API key loaded
+2025-08-05 02:13:20,734 - main - INFO - ✅ Groq API key loaded
+2025-08-05 02:13:20,734 - main - INFO - 🚀 AI Training Platform API started successfully
+2025-08-05 02:18:17,889 - main - INFO - Database closed.
+2025-08-05 02:18:17,889 - main - INFO - 👋 Application shutdown
+2025-08-05 02:18:20,475 - main - ERROR - ❌ Error initializing OpenAI client: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 02:18:20,475 - main - ERROR - ❌ Error initializing Groq client: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 02:18:20,512 - main - INFO - Database initialized.
+2025-08-05 02:18:20,512 - main - INFO - ✅ OpenAI API key loaded
+2025-08-05 02:18:20,515 - main - INFO - ✅ Groq API key loaded
+2025-08-05 02:18:20,515 - main - INFO - 🚀 AI Training Platform API started successfully
+2025-08-05 02:20:49,663 - main - INFO - Database closed.
+2025-08-05 02:20:49,663 - main - INFO - 👋 Application shutdown
+2025-08-05 02:20:58,350 - main - ERROR - ❌ Error initializing OpenAI client: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 02:20:58,350 - main - ERROR - ❌ Error initializing Groq client: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 02:20:58,380 - main - INFO - Database initialized.
+2025-08-05 02:20:58,380 - main - INFO - ✅ OpenAI API key loaded
+2025-08-05 02:20:58,380 - main - INFO - ✅ Groq API key loaded
+2025-08-05 02:20:58,381 - main - INFO - 🚀 AI Training Platform API started successfully
+2025-08-05 02:21:05,455 - main - INFO - Database closed.
+2025-08-05 02:21:05,455 - main - INFO - 👋 Application shutdown
+2025-08-05 02:22:02,305 - main - ERROR - ❌ Error initializing OpenAI client: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 02:22:02,305 - main - ERROR - ❌ Error initializing Groq client: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 02:22:02,328 - main - INFO - Database initialized.
+2025-08-05 02:22:02,328 - main - INFO - ✅ OpenAI API key loaded
+2025-08-05 02:22:02,328 - main - INFO - ✅ Groq API key loaded
+2025-08-05 02:22:02,328 - main - INFO - 🚀 AI Training Platform API started successfully
+2025-08-05 02:22:38,920 - main - INFO - File biography.pdf saved for user 6a4c2545-969c-4544-85fb-54ab096aff89.
+2025-08-05 02:22:38,922 - main - INFO - 📁 File uploaded for user 6a4c2545-969c-4544-85fb-54ab096aff89: biography.pdf
+2025-08-05 02:26:24,157 - main - INFO - Database closed.
+2025-08-05 02:26:24,159 - main - INFO - 👋 Application shutdown
+2025-08-05 02:26:27,350 - main - ERROR - ❌ Error initializing OpenAI client: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 02:26:27,350 - main - ERROR - ❌ Error initializing Groq client: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 02:26:27,379 - main - INFO - Database initialized.
+2025-08-05 02:26:27,379 - main - INFO - ✅ OpenAI API key loaded
+2025-08-05 02:26:27,379 - main - INFO - ✅ Groq API key loaded
+2025-08-05 02:26:27,381 - main - INFO - 🚀 AI Training Platform API started successfully
+2025-08-05 02:30:15,817 - main - INFO - Database closed.
+2025-08-05 02:30:15,817 - main - INFO - 👋 Application shutdown
+2025-08-05 02:30:18,776 - main - ERROR - ❌ Error initializing OpenAI client: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 02:30:18,776 - main - ERROR - ❌ Error initializing Groq client: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 02:30:18,808 - main - INFO - Database initialized.
+2025-08-05 02:30:18,808 - main - INFO - ✅ OpenAI API key loaded
+2025-08-05 02:30:18,810 - main - INFO - ✅ Groq API key loaded
+2025-08-05 02:30:18,810 - main - INFO - 🚀 AI Training Platform API started successfully
+2025-08-05 02:40:29,274 - main - INFO - Database closed.
+2025-08-05 02:40:29,274 - main - INFO - 👋 Application shutdown
+2025-08-05 02:40:35,090 - main - ERROR - ❌ Error initializing OpenAI client: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 02:40:35,090 - main - ERROR - ❌ Error initializing Groq client: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 02:40:35,106 - main - INFO - Database initialized.
+2025-08-05 02:40:35,106 - main - INFO - ✅ OpenAI API key loaded
+2025-08-05 02:40:35,106 - main - INFO - ✅ Groq API key loaded
+2025-08-05 02:40:35,106 - main - INFO - 🚀 AI Training Platform API started successfully
+2025-08-05 02:45:33,302 - main - INFO - Database closed.
+2025-08-05 02:45:33,302 - main - INFO - 👋 Application shutdown
+2025-08-05 02:45:35,063 - main - ERROR - ❌ Error initializing OpenAI client: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 02:45:35,063 - main - ERROR - ❌ Error initializing Groq client: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 02:45:35,091 - main - INFO - Database initialized.
+2025-08-05 02:45:35,091 - main - INFO - ✅ OpenAI API key loaded
+2025-08-05 02:45:35,092 - main - INFO - ✅ Groq API key loaded
+2025-08-05 02:45:35,092 - main - INFO - 🚀 AI Training Platform API started successfully
+2025-08-05 02:54:54,706 - main - INFO - Database closed.
+2025-08-05 02:54:54,706 - main - INFO - 👋 Application shutdown
+2025-08-05 03:02:43,997 - main - INFO - ✅ OpenAI client initialized successfully (Strategy 1).
+2025-08-05 03:02:43,997 - main - WARNING - ⚠️ Groq Strategy 1 failed: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 03:02:43,997 - main - WARNING - ⚠️ Groq Strategy 2 failed: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 03:02:43,997 - main - ERROR - ❌ All Groq initialization strategies failed. Last error: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 03:02:44,025 - main - INFO - Database initialized.
+2025-08-05 03:02:44,026 - main - INFO - 📚 OpenAI library available: True
+2025-08-05 03:02:44,026 - main - INFO - 📚 Groq library available: True
+2025-08-05 03:02:44,026 - main - INFO - ✅ OpenAI API key loaded
+2025-08-05 03:02:44,026 - main - INFO - ✅ Groq API key loaded
+2025-08-05 03:02:44,026 - main - INFO - 🚀 AI Training Platform API started successfully
+2025-08-05 03:04:55,314 - main - INFO - Database closed.
+2025-08-05 03:04:55,314 - main - INFO - 👋 Application shutdown
+2025-08-05 03:04:57,211 - main - INFO - ✅ OpenAI client initialized successfully (Strategy 1).
+2025-08-05 03:04:57,211 - main - WARNING - ⚠️ Groq Strategy 1 failed: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 03:04:57,211 - main - WARNING - ⚠️ Groq Strategy 2 failed: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 03:04:57,211 - main - ERROR - ❌ All Groq initialization strategies failed. Last error: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 03:04:57,230 - main - INFO - Database initialized.
+2025-08-05 03:04:57,231 - main - INFO - 📚 OpenAI library available: True
+2025-08-05 03:04:57,231 - main - INFO - 📚 Groq library available: True
+2025-08-05 03:04:57,231 - main - INFO - ✅ OpenAI API key loaded
+2025-08-05 03:04:57,231 - main - INFO - ✅ Groq API key loaded
+2025-08-05 03:04:57,232 - main - INFO - 🚀 AI Training Platform API started successfully
+2025-08-05 03:04:57,232 - main - INFO - Database closed.
+2025-08-05 03:04:57,232 - main - INFO - 👋 Application shutdown
+2025-08-05 03:04:59,283 - main - INFO - ✅ OpenAI client initialized successfully (Strategy 1).
+2025-08-05 03:04:59,283 - main - WARNING - ⚠️ Groq Strategy 1 failed: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 03:04:59,283 - main - WARNING - ⚠️ Groq Strategy 2 failed: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 03:04:59,283 - main - ERROR - ❌ All Groq initialization strategies failed. Last error: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 03:04:59,309 - main - INFO - Database initialized.
+2025-08-05 03:04:59,309 - main - INFO - 📚 OpenAI library available: True
+2025-08-05 03:04:59,309 - main - INFO - 📚 Groq library available: True
+2025-08-05 03:04:59,309 - main - INFO - ✅ OpenAI API key loaded
+2025-08-05 03:04:59,309 - main - INFO - ✅ Groq API key loaded
+2025-08-05 03:04:59,309 - main - INFO - 🚀 AI Training Platform API started successfully
+2025-08-05 03:05:32,014 - main - INFO - Database closed.
+2025-08-05 03:05:32,014 - main - INFO - 👋 Application shutdown
+2025-08-05 03:05:34,108 - main - INFO - ✅ OpenAI client initialized successfully (Strategy 1).
+2025-08-05 03:05:34,109 - main - WARNING - ⚠️ Groq Strategy 1 failed: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 03:05:34,110 - main - WARNING - ⚠️ Groq Strategy 2 failed: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 03:05:34,110 - main - ERROR - ❌ All Groq initialization strategies failed. Last error: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-08-05 03:05:34,127 - main - INFO - Database initialized.
+2025-08-05 03:05:34,127 - main - INFO - 📚 OpenAI library available: True
+2025-08-05 03:05:34,127 - main - INFO - 📚 Groq library available: True
+2025-08-05 03:05:34,128 - main - INFO - ✅ OpenAI API key loaded
+2025-08-05 03:05:34,128 - main - INFO - ✅ Groq API key loaded
+2025-08-05 03:05:34,128 - main - INFO - 🚀 AI Training Platform API started successfully
+2025-08-05 03:07:52,528 - main - INFO - Database closed.
+2025-08-05 03:07:52,528 - main - INFO - 👋 Application shutdown
+2025-08-05 03:11:12,367 - main - INFO - ✅ OpenAI client initialized successfully (Strategy 1).
+2025-08-05 03:11:12,386 - main - INFO - Database initialized.
+2025-08-05 03:11:12,386 - main - INFO - 📚 OpenAI library available: True
+2025-08-05 03:11:12,386 - main - INFO - ✅ OpenAI API key loaded
+2025-08-05 03:11:12,387 - main - INFO - 🚀 AI Training Platform API started successfully
+2025-08-05 03:11:21,434 - main - INFO - 📊 Getting training status for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:11:27,339 - main - INFO - 📁 Upload request - User: 6a4c2545-969c-4544-85fb-54ab096aff89, File: biography.pdf
+2025-08-05 03:11:27,490 - main - INFO - File biography.pdf saved for user 6a4c2545-969c-4544-85fb-54ab096aff89.
+2025-08-05 03:11:27,490 - main - INFO - ✅ File uploaded successfully for user 6a4c2545-969c-4544-85fb-54ab096aff89: biography.pdf
+2025-08-05 03:16:40,297 - main - INFO - 📊 Getting training status for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:17:49,517 - main - INFO - 📊 Getting training status for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:17:51,106 - main - INFO - 📊 Getting training status for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:19:12,974 - main - INFO - 📁 Upload request - User: 6a4c2545-969c-4544-85fb-54ab096aff89, File: biography.pdf
+2025-08-05 03:19:13,114 - main - INFO - File biography.pdf saved for user 6a4c2545-969c-4544-85fb-54ab096aff89.
+2025-08-05 03:19:13,114 - main - INFO - ✅ File uploaded successfully for user 6a4c2545-969c-4544-85fb-54ab096aff89: biography.pdf
+2025-08-05 03:20:00,627 - main - INFO - 🎯 Training start request received for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:20:00,636 - main - INFO - 📋 Request data: user_id='6a4c2545-969c-4544-85fb-54ab096aff89'
+2025-08-05 03:20:00,636 - main - INFO - ✅ Starting background training task for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:20:00,636 - main - INFO - 🎯 Starting custom model training for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:20:00,639 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to preprocessing.
+2025-08-05 03:20:00,640 - main - INFO - Processing uploaded file uploads/test_file.txt.
+2025-08-05 03:20:00,640 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to training.
+2025-08-05 03:20:00,640 - main - INFO - Training model for user 6a4c2545-969c-4544-85fb-54ab096aff89 from file.
+2025-08-05 03:20:00,642 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to completed.
+2025-08-05 03:20:00,643 - main - INFO - ✅ Custom model training completed for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:20:11,266 - main - INFO - 🎯 Training start request received for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:20:11,266 - main - INFO - 📋 Request data: user_id='6a4c2545-969c-4544-85fb-54ab096aff89'
+2025-08-05 03:20:11,267 - main - INFO - ✅ Starting background training task for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:20:11,268 - main - INFO - 🎯 Starting custom model training for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:20:11,268 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to preprocessing.
+2025-08-05 03:20:11,268 - main - INFO - Processing uploaded file uploads/test_file.txt.
+2025-08-05 03:20:11,269 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to training.
+2025-08-05 03:20:11,269 - main - INFO - Training model for user 6a4c2545-969c-4544-85fb-54ab096aff89 from file.
+2025-08-05 03:20:11,269 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to completed.
+2025-08-05 03:20:11,269 - main - INFO - ✅ Custom model training completed for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:20:28,338 - main - INFO - Database closed.
+2025-08-05 03:20:28,338 - main - INFO - 👋 Application shutdown
+2025-08-05 03:20:33,938 - main - INFO - ✅ OpenAI client initialized successfully (Strategy 1).
+2025-08-05 03:20:33,940 - main - INFO - Database initialized.
+2025-08-05 03:20:33,940 - main - INFO - 📚 OpenAI library available: True
+2025-08-05 03:20:33,940 - main - INFO - ✅ OpenAI API key loaded
+2025-08-05 03:20:33,956 - main - INFO - 🚀 AI Training Platform API started successfully
+2025-08-05 03:20:38,694 - main - INFO - 🎯 Training start request received for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:20:38,694 - main - INFO - 📋 Request data: user_id='6a4c2545-969c-4544-85fb-54ab096aff89'
+2025-08-05 03:20:38,694 - main - INFO - ✅ Starting background training task for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:20:38,694 - main - INFO - 🎯 Starting custom model training for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:20:38,694 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to preprocessing.
+2025-08-05 03:20:38,702 - main - INFO - Processing uploaded file uploads/test_file.txt.
+2025-08-05 03:20:38,703 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to training.
+2025-08-05 03:20:38,703 - main - INFO - Training model for user 6a4c2545-969c-4544-85fb-54ab096aff89 from file.
+2025-08-05 03:20:38,705 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to completed.
+2025-08-05 03:20:38,705 - main - INFO - ✅ Custom model training completed for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:02,974 - main - INFO - 🎯 Training start request received for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:02,974 - main - INFO - 📋 Request data: user_id='6a4c2545-969c-4544-85fb-54ab096aff89'
+2025-08-05 03:21:02,974 - main - INFO - ✅ Starting background training task for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:02,974 - main - INFO - 🎯 Starting custom model training for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:02,974 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to preprocessing.
+2025-08-05 03:21:02,980 - main - INFO - Processing uploaded file uploads/test_file.txt.
+2025-08-05 03:21:02,980 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to training.
+2025-08-05 03:21:02,981 - main - INFO - Training model for user 6a4c2545-969c-4544-85fb-54ab096aff89 from file.
+2025-08-05 03:21:02,981 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to completed.
+2025-08-05 03:21:02,982 - main - INFO - ✅ Custom model training completed for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:04,115 - main - INFO - 🎯 Training start request received for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:04,116 - main - INFO - 📋 Request data: user_id='6a4c2545-969c-4544-85fb-54ab096aff89'
+2025-08-05 03:21:04,117 - main - INFO - ✅ Starting background training task for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:04,120 - main - INFO - 🎯 Starting custom model training for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:04,121 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to preprocessing.
+2025-08-05 03:21:04,121 - main - INFO - Processing uploaded file uploads/test_file.txt.
+2025-08-05 03:21:04,122 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to training.
+2025-08-05 03:21:04,123 - main - INFO - Training model for user 6a4c2545-969c-4544-85fb-54ab096aff89 from file.
+2025-08-05 03:21:04,124 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to completed.
+2025-08-05 03:21:04,125 - main - INFO - ✅ Custom model training completed for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:04,675 - main - INFO - 🎯 Training start request received for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:04,675 - main - INFO - 📋 Request data: user_id='6a4c2545-969c-4544-85fb-54ab096aff89'
+2025-08-05 03:21:04,676 - main - INFO - ✅ Starting background training task for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:04,676 - main - INFO - 🎯 Starting custom model training for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:04,676 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to preprocessing.
+2025-08-05 03:21:04,676 - main - INFO - Processing uploaded file uploads/test_file.txt.
+2025-08-05 03:21:04,677 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to training.
+2025-08-05 03:21:04,677 - main - INFO - Training model for user 6a4c2545-969c-4544-85fb-54ab096aff89 from file.
+2025-08-05 03:21:04,677 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to completed.
+2025-08-05 03:21:04,677 - main - INFO - ✅ Custom model training completed for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:04,882 - main - INFO - 🎯 Training start request received for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:04,884 - main - INFO - 📋 Request data: user_id='6a4c2545-969c-4544-85fb-54ab096aff89'
+2025-08-05 03:21:04,885 - main - INFO - ✅ Starting background training task for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:04,888 - main - INFO - 🎯 Starting custom model training for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:04,889 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to preprocessing.
+2025-08-05 03:21:04,890 - main - INFO - Processing uploaded file uploads/test_file.txt.
+2025-08-05 03:21:04,891 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to training.
+2025-08-05 03:21:04,891 - main - INFO - Training model for user 6a4c2545-969c-4544-85fb-54ab096aff89 from file.
+2025-08-05 03:21:04,892 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to completed.
+2025-08-05 03:21:04,892 - main - INFO - ✅ Custom model training completed for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:05,044 - main - INFO - 🎯 Training start request received for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:05,052 - main - INFO - 📋 Request data: user_id='6a4c2545-969c-4544-85fb-54ab096aff89'
+2025-08-05 03:21:05,052 - main - INFO - ✅ Starting background training task for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:05,052 - main - INFO - 🎯 Starting custom model training for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:05,059 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to preprocessing.
+2025-08-05 03:21:05,059 - main - INFO - Processing uploaded file uploads/test_file.txt.
+2025-08-05 03:21:05,059 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to training.
+2025-08-05 03:21:05,059 - main - INFO - Training model for user 6a4c2545-969c-4544-85fb-54ab096aff89 from file.
+2025-08-05 03:21:05,065 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to completed.
+2025-08-05 03:21:05,065 - main - INFO - ✅ Custom model training completed for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:05,256 - main - INFO - 🎯 Training start request received for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:05,258 - main - INFO - 📋 Request data: user_id='6a4c2545-969c-4544-85fb-54ab096aff89'
+2025-08-05 03:21:05,258 - main - INFO - ✅ Starting background training task for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:05,258 - main - INFO - 🎯 Starting custom model training for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:05,258 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to preprocessing.
+2025-08-05 03:21:05,258 - main - INFO - Processing uploaded file uploads/test_file.txt.
+2025-08-05 03:21:05,259 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to training.
+2025-08-05 03:21:05,259 - main - INFO - Training model for user 6a4c2545-969c-4544-85fb-54ab096aff89 from file.
+2025-08-05 03:21:05,259 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to completed.
+2025-08-05 03:21:05,260 - main - INFO - ✅ Custom model training completed for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:05,491 - main - INFO - 🎯 Training start request received for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:05,491 - main - INFO - 📋 Request data: user_id='6a4c2545-969c-4544-85fb-54ab096aff89'
+2025-08-05 03:21:05,491 - main - INFO - ✅ Starting background training task for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:05,492 - main - INFO - 🎯 Starting custom model training for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:05,492 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to preprocessing.
+2025-08-05 03:21:05,493 - main - INFO - Processing uploaded file uploads/test_file.txt.
+2025-08-05 03:21:05,493 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to training.
+2025-08-05 03:21:05,493 - main - INFO - Training model for user 6a4c2545-969c-4544-85fb-54ab096aff89 from file.
+2025-08-05 03:21:05,494 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to completed.
+2025-08-05 03:21:05,494 - main - INFO - ✅ Custom model training completed for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:05,691 - main - INFO - 🎯 Training start request received for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:05,691 - main - INFO - 📋 Request data: user_id='6a4c2545-969c-4544-85fb-54ab096aff89'
+2025-08-05 03:21:05,692 - main - INFO - ✅ Starting background training task for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:05,693 - main - INFO - 🎯 Starting custom model training for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:05,693 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to preprocessing.
+2025-08-05 03:21:05,693 - main - INFO - Processing uploaded file uploads/test_file.txt.
+2025-08-05 03:21:05,694 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to training.
+2025-08-05 03:21:05,694 - main - INFO - Training model for user 6a4c2545-969c-4544-85fb-54ab096aff89 from file.
+2025-08-05 03:21:05,694 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to completed.
+2025-08-05 03:21:05,695 - main - INFO - ✅ Custom model training completed for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:05,861 - main - INFO - 🎯 Training start request received for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:05,862 - main - INFO - 📋 Request data: user_id='6a4c2545-969c-4544-85fb-54ab096aff89'
+2025-08-05 03:21:05,863 - main - INFO - ✅ Starting background training task for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:05,866 - main - INFO - 🎯 Starting custom model training for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:05,867 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to preprocessing.
+2025-08-05 03:21:05,868 - main - INFO - Processing uploaded file uploads/test_file.txt.
+2025-08-05 03:21:05,869 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to training.
+2025-08-05 03:21:05,870 - main - INFO - Training model for user 6a4c2545-969c-4544-85fb-54ab096aff89 from file.
+2025-08-05 03:21:05,871 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to completed.
+2025-08-05 03:21:05,872 - main - INFO - ✅ Custom model training completed for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:06,032 - main - INFO - 🎯 Training start request received for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:06,033 - main - INFO - 📋 Request data: user_id='6a4c2545-969c-4544-85fb-54ab096aff89'
+2025-08-05 03:21:06,034 - main - INFO - ✅ Starting background training task for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:06,038 - main - INFO - 🎯 Starting custom model training for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:06,039 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to preprocessing.
+2025-08-05 03:21:06,040 - main - INFO - Processing uploaded file uploads/test_file.txt.
+2025-08-05 03:21:06,042 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to training.
+2025-08-05 03:21:06,043 - main - INFO - Training model for user 6a4c2545-969c-4544-85fb-54ab096aff89 from file.
+2025-08-05 03:21:06,045 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to completed.
+2025-08-05 03:21:06,046 - main - INFO - ✅ Custom model training completed for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:06,735 - main - INFO - 🎯 Training start request received for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:06,737 - main - INFO - 📋 Request data: user_id='6a4c2545-969c-4544-85fb-54ab096aff89'
+2025-08-05 03:21:06,737 - main - INFO - ✅ Starting background training task for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:06,738 - main - INFO - 🎯 Starting custom model training for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:06,738 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to preprocessing.
+2025-08-05 03:21:06,740 - main - INFO - Processing uploaded file uploads/test_file.txt.
+2025-08-05 03:21:06,740 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to training.
+2025-08-05 03:21:06,741 - main - INFO - Training model for user 6a4c2545-969c-4544-85fb-54ab096aff89 from file.
+2025-08-05 03:21:06,741 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to completed.
+2025-08-05 03:21:06,742 - main - INFO - ✅ Custom model training completed for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:07,134 - main - INFO - 🎯 Training start request received for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:07,135 - main - INFO - 📋 Request data: user_id='6a4c2545-969c-4544-85fb-54ab096aff89'
+2025-08-05 03:21:07,136 - main - INFO - ✅ Starting background training task for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:07,141 - main - INFO - 🎯 Starting custom model training for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:07,142 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to preprocessing.
+2025-08-05 03:21:07,144 - main - INFO - Processing uploaded file uploads/test_file.txt.
+2025-08-05 03:21:07,144 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to training.
+2025-08-05 03:21:07,146 - main - INFO - Training model for user 6a4c2545-969c-4544-85fb-54ab096aff89 from file.
+2025-08-05 03:21:07,146 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to completed.
+2025-08-05 03:21:07,147 - main - INFO - ✅ Custom model training completed for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:07,354 - main - INFO - 🎯 Training start request received for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:07,355 - main - INFO - 📋 Request data: user_id='6a4c2545-969c-4544-85fb-54ab096aff89'
+2025-08-05 03:21:07,355 - main - INFO - ✅ Starting background training task for user: 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:07,356 - main - INFO - 🎯 Starting custom model training for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:07,356 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to preprocessing.
+2025-08-05 03:21:07,357 - main - INFO - Processing uploaded file uploads/test_file.txt.
+2025-08-05 03:21:07,357 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to training.
+2025-08-05 03:21:07,357 - main - INFO - Training model for user 6a4c2545-969c-4544-85fb-54ab096aff89 from file.
+2025-08-05 03:21:07,358 - main - INFO - User 6a4c2545-969c-4544-85fb-54ab096aff89 training status updated to completed.
+2025-08-05 03:21:07,358 - main - INFO - ✅ Custom model training completed for user 6a4c2545-969c-4544-85fb-54ab096aff89
+2025-08-05 03:21:50,336 - main - INFO - Database closed.
+2025-08-05 03:21:50,338 - main - INFO - 👋 Application shutdown
+2025-08-05 12:19:37,370 - main - INFO - ✅ OpenAI client initialized successfully (Strategy 1).
+2025-08-05 12:19:37,411 - main - INFO - Database initialized.
+2025-08-05 12:19:37,411 - main - INFO - 📚 OpenAI library available: True
+2025-08-05 12:19:37,414 - main - INFO - ✅ OpenAI API key loaded
+2025-08-05 12:19:37,414 - main - INFO - 🚀 AI Training Platform API started successfully
+2025-08-05 14:12:40,932 - main - INFO - Database closed.
+2025-08-05 14:12:40,949 - main - INFO - 👋 Application shutdown
+2025-08-05 14:12:55,024 - main - INFO - ✅ OpenAI client initialized successfully (Strategy 1).
+2025-08-05 14:12:55,053 - main - INFO - Database initialized.
+2025-08-05 14:12:55,053 - main - INFO - 📚 OpenAI library available: True
+2025-08-05 14:12:55,053 - main - INFO - ✅ OpenAI API key loaded
+2025-08-05 14:12:55,053 - main - INFO - 🚀 AI Training Platform API started successfully
+2025-08-05 14:51:50,040 - main - INFO - Database closed.
+2025-08-05 14:51:50,040 - main - INFO - 👋 Application shutdown
+2025-08-05 14:52:14,348 - main - INFO - 🤖 ModelTrainer initialized with supported models: ['distilgpt2', 'gpt2', 'microsoft/DialoGPT-small', 'TinyLlama/TinyLlama-1.1B-Chat-v1.0']
+2025-08-05 14:52:14,351 - main - INFO - 🤖 ModelTrainer initialized with supported models: ['distilgpt2', 'gpt2', 'microsoft/DialoGPT-small', 'TinyLlama/TinyLlama-1.1B-Chat-v1.0']
+2025-08-05 14:52:14,485 - main - INFO - OpenAI client initialized.
+2025-08-05 14:52:14,485 - main - INFO - Loading fallback model: distilgpt2
+2025-08-05 14:54:42,529 - main - INFO - Fallback model (distilgpt2) loaded successfully.
+2025-08-05 14:54:42,759 - main - INFO - 🚀 Starting up FastAPI application...
+2025-08-05 14:54:42,807 - main - INFO - ✅ Database initialized successfully
+2025-08-05 14:54:42,807 - main - INFO - FastAPI startup complete.
+2025-08-05 14:57:25,175 - main - INFO - 👋 Shutting down FastAPI application...
+2025-08-05 14:57:42,074 - main - INFO - 🤖 ModelTrainer initialized with supported models: ['distilgpt2', 'gpt2', 'microsoft/DialoGPT-small', 'TinyLlama/TinyLlama-1.1B-Chat-v1.0']
+2025-08-05 14:57:42,074 - main - INFO - 🤖 ModelTrainer initialized with supported models: ['distilgpt2', 'gpt2', 'microsoft/DialoGPT-small', 'TinyLlama/TinyLlama-1.1B-Chat-v1.0']
+2025-08-05 14:57:42,210 - main - INFO - OpenAI client initialized.
+2025-08-05 14:57:42,225 - main - INFO - Loading fallback model: distilgpt2
+2025-08-05 14:57:43,941 - main - INFO - Fallback model (distilgpt2) loaded successfully.
+2025-08-05 14:57:43,969 - main - INFO - 🚀 Starting up FastAPI application...
+2025-08-05 14:57:43,972 - main - INFO - ✅ Database initialized successfully
+2025-08-05 14:57:43,972 - main - INFO - FastAPI startup complete.
+2025-08-05 14:57:43,972 - main - INFO - 👋 Shutting down FastAPI application...
+2025-08-05 14:57:58,037 - main - INFO - 🤖 ModelTrainer initialized with supported models: ['distilgpt2', 'gpt2', 'microsoft/DialoGPT-small', 'TinyLlama/TinyLlama-1.1B-Chat-v1.0']
+2025-08-05 14:57:58,037 - main - INFO - 🤖 ModelTrainer initialized with supported models: ['distilgpt2', 'gpt2', 'microsoft/DialoGPT-small', 'TinyLlama/TinyLlama-1.1B-Chat-v1.0']
+2025-08-05 14:57:58,134 - main - INFO - OpenAI client initialized.
+2025-08-05 14:57:58,135 - main - INFO - Loading fallback model: distilgpt2
+2025-08-05 14:58:00,091 - main - INFO - Fallback model (distilgpt2) loaded successfully.
+2025-08-05 14:58:00,124 - main - INFO - 🚀 Starting up FastAPI application...
+2025-08-05 14:58:00,126 - main - INFO - ✅ Database initialized successfully
+2025-08-05 14:58:00,126 - main - INFO - FastAPI startup complete.
+2025-08-05 16:15:48,019 - main - INFO - 🤖 ModelTrainer initialized with supported models: ['distilgpt2', 'gpt2', 'microsoft/DialoGPT-small', 'TinyLlama/TinyLlama-1.1B-Chat-v1.0']
+2025-08-05 16:15:48,021 - main - INFO - 🤖 ModelTrainer initialized with supported models: ['distilgpt2', 'gpt2', 'microsoft/DialoGPT-small', 'TinyLlama/TinyLlama-1.1B-Chat-v1.0']
+2025-08-05 16:15:48,167 - main - INFO - OpenAI client initialized.
+2025-08-05 16:15:48,182 - main - INFO - Loading fallback model: distilgpt2
+2025-08-05 16:15:50,569 - main - INFO - Fallback model (distilgpt2) loaded successfully.
+2025-08-05 16:15:50,627 - main - INFO - 🚀 Starting up FastAPI application...
+2025-08-05 16:15:50,644 - main - INFO - ✅ Database initialized successfully
+2025-08-05 16:15:50,645 - main - INFO - FastAPI startup complete.
+2025-08-05 16:26:10,232 - main - INFO - 👋 Shutting down FastAPI application...
+2025-08-05 23:49:48,555 - __main__ - INFO - 🤖 ModelTrainer initialized with supported models: ['distilgpt2', 'gpt2', 'microsoft/DialoGPT-small', 'TinyLlama/TinyLlama-1.1B-Chat-v1.0']
+2025-08-05 23:49:48,555 - __main__ - INFO - 🤖 ModelTrainer initialized with supported models: ['distilgpt2', 'gpt2', 'microsoft/DialoGPT-small', 'TinyLlama/TinyLlama-1.1B-Chat-v1.0']
+2025-08-05 23:49:48,703 - __main__ - INFO - ✅ OpenAI client initialized
+2025-08-05 23:49:48,942 - __main__ - INFO - 🚀 Starting Enhanced AI Training Platform...
+2025-08-05 23:49:48,942 - __main__ - INFO - 📂 Models directory: C:\Users\Saifi\Downloads\My own human clone\ai-training-backend\models
+2025-08-05 23:49:48,942 - __main__ - INFO - 📁 Uploads directory: C:\Users\Saifi\Downloads\My own human clone\ai-training-backend\uploads
+2025-08-05 23:49:48,942 - __main__ - INFO - 🔧 Supported models: ['distilgpt2', 'gpt2', 'microsoft/DialoGPT-small', 'TinyLlama/TinyLlama-1.1B-Chat-v1.0']
+2025-08-05 23:49:48,942 - __main__ - INFO - 🤖 OpenAI available: True
+2025-08-05 23:50:18,966 - __main__ - INFO - 🤖 ModelTrainer initialized with supported models: ['distilgpt2', 'gpt2', 'microsoft/DialoGPT-small', 'TinyLlama/TinyLlama-1.1B-Chat-v1.0']
+2025-08-05 23:50:18,966 - __main__ - INFO - 🤖 ModelTrainer initialized with supported models: ['distilgpt2', 'gpt2', 'microsoft/DialoGPT-small', 'TinyLlama/TinyLlama-1.1B-Chat-v1.0']
+2025-08-05 23:50:19,053 - __main__ - INFO - ✅ OpenAI client initialized
+2025-08-05 23:50:19,267 - __main__ - INFO - 🚀 Starting Enhanced AI Training Platform...
+2025-08-05 23:50:19,267 - __main__ - INFO - 📂 Models directory: C:\Users\Saifi\Downloads\My own human clone\ai-training-backend\models
+2025-08-05 23:50:19,267 - __main__ - INFO - 📁 Uploads directory: C:\Users\Saifi\Downloads\My own human clone\ai-training-backend\uploads
+2025-08-05 23:50:19,267 - __main__ - INFO - 🔧 Supported models: ['distilgpt2', 'gpt2', 'microsoft/DialoGPT-small', 'TinyLlama/TinyLlama-1.1B-Chat-v1.0']
+2025-08-05 23:50:19,267 - __main__ - INFO - 🤖 OpenAI available: True
+2025-08-05 23:51:07,003 - main - INFO - 🤖 ModelTrainer initialized with supported models: ['distilgpt2', 'gpt2', 'microsoft/DialoGPT-small', 'TinyLlama/TinyLlama-1.1B-Chat-v1.0']
+2025-08-05 23:51:07,003 - main - INFO - 🤖 ModelTrainer initialized with supported models: ['distilgpt2', 'gpt2', 'microsoft/DialoGPT-small', 'TinyLlama/TinyLlama-1.1B-Chat-v1.0']
+2025-08-05 23:51:07,228 - main - INFO - ✅ OpenAI client initialized
+2025-08-05 23:51:07,379 - main - INFO - ✅ Database initialized successfully
+2025-08-05 23:51:07,381 - main - INFO - 🚀 Enhanced AI Training Platform API started successfully
